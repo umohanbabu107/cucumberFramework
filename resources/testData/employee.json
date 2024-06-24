@@ -1,0 +1,14 @@
+{
+  "firstName" : "Mohan",
+  "lastName" : "Ungati",
+  "address" : [
+    {
+      "street" : "Street1",
+      "country" : "Country1"
+    },
+    {
+      "street" : "Street2",
+      "country" : "Country2"
+    }
+  ]
+}
