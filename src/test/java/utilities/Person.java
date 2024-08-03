@@ -2,6 +2,8 @@ package utilities;
 
 import java.util.List;
 
+// This is the sample class to parse the json data
+
 public class Person {
     String firstName;
     String lastName;

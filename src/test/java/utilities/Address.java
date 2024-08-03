@@ -1,5 +1,6 @@
 package utilities;
 
+// This is a sample class to parse the json data
 public class Address {
     String street;
     String country;
